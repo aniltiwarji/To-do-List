@@ -15,9 +15,9 @@
   }
   .task{
         margin-left: 0px !important;
-        width: 66%;
-    position: relative;
-    left: 91px;
+        width: 66% !important;
+    position: relative !important;
+    left: 91px !important;
   }
   .dropdown-list{
     margin-inline: 55px  !important;
