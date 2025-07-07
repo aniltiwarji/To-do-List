@@ -2,6 +2,7 @@
   body {
        background: url(https://images.pexels.com/photos/1723637/pexels-photo-1723637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)!important;
        background-image: cover !important;
+    overflow-x: "hidden" !important;
   }
   .todo-app{
         background: none !important;
