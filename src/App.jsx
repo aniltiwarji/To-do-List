@@ -108,7 +108,7 @@ function App() {
                       {item.text}
                     </span>
 
-                    <div style={{
+                    <div className=task style={{
                       boxSizing: "border-box", marginLeft: "1.1rem", marginRight: "1.1rem",
                       color: "white", display: "flex", gap: "0.5rem", height: "100%", alignItems: "center", margin: "auto"
                     }}>
