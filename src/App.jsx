@@ -74,7 +74,7 @@ function App() {
     <div className='todo-app'>
 
       <div className='todo-container'>
-        <h1>𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕋𝕆 𝕄𝕐 𝕋𝕆𝔻𝕆 𝕃𝕀𝕊𝕋 </h1>
+        <h1>Welcome to our To-do List </h1>
 
         <div>
           <input type='text' placeholder='enter your task' onChange={(e) => setTask(e.target.value.toUpperCase())} value={task} />
