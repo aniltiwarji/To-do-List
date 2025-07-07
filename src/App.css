@@ -1,0 +1,22 @@
+@media screen and (max-width: 426px) {
+  body {
+       background: url(https://images.pexels.com/photos/1723637/pexels-photo-1723637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)!important;
+       background-image: cover !important;
+  }
+  .todo-app{
+        background: none !important;
+          margin-bottom: -71px !important;
+  }
+  h1{
+        margin-inline: 86px !important;
+    width: max-content !important;
+    font-family: `cinzel decorative`,cursive !important;
+  }
+  .task{
+        margin-left: 111px !important;
+  }
+  .dropdown-list{
+    margin-inline: 55px  !important;
+    margin-left: 122px  !important;
+  }
+}
