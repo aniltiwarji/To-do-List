@@ -8,10 +8,10 @@
         background: none !important;
           margin-bottom: -71px !important;
   }
-  h1{
-        margin-inline: 86px !important;
-    width: max-content !important;
-    font-family: `cinzel decorative`,cursive !important;
+  h1{        width: 70% !important;
+        font-size: 26px;
+        margin: 0px 0px !important;
+        margin-left: 85px !important;
   }
   .task{
         margin-left: 111px !important;
