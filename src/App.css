@@ -22,4 +22,7 @@
     margin-inline: 55px  !important;
     margin-left: 0px  !important;
   }
+  .button{
+    width: 90% !important;
+  }
 }
